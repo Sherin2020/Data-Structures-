@@ -1,2 +1,2 @@
-# Web-Development-
-Learning web development and documenting as I learn
+# Data Structures
+Some different questions that I solved in Data Structures. 
